@@ -1,0 +1,19 @@
+{
+  "name": "PAIN",
+  "symbol": "PAIN",
+  "uri": "https://azure-biological-smelt-611.mypinata.cloud/ipfs/bafkreicrdiaucqjfif4lc3bmi527lt5hm6tqljyrikv7jkvsptopebdj6m",
+  "image": "https://azure-biological-smelt-611.mypinata.cloud/ipfs/bafkreibcfvlv7vg2cyvuurn5ukmdlti6j3pyqfecn4qisl6kapyhdxrpqm",
+  "attributes": [
+    { "trait_type": "Category", "value": "Meme Coin" },
+    { "trait_type": "Network", "value": "Solana" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://azure-biological-smelt-611.mypinata.cloud/ipfs/bafkreic7w4ko4uls5verg4o5wryjyb67ocuqnpshn4rdd4bbpdcrkuiu34",
+        "type": "image/png"
+      }
+    ]
+  }
+}
+
